@@ -7,7 +7,7 @@ import time
 from typing import List, Dict
 
 load_dotenv()
-
+print(os.getenv("HF_TOKEN"))
 class LLMHandler:
     def __init__(self, model_type: str = "huggingface"):
         self.model_type = model_type.lower()

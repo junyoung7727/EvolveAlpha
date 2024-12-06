@@ -1,0 +1,97 @@
+2024-12-04 19:29:01,546 - Discussion_Manager - INFO - 
+논의 시작...
+2024-12-04 19:29:01,546 - Discussion_Manager - INFO - 
+****************************************************************************************************
+2024-12-04 19:29:01,547 - Discussion_Manager - INFO - 단계: 논의 초기화
+2024-12-04 19:29:01,548 - Discussion_Manager - INFO - ****************************************************************************************************
+2024-12-04 19:29:01,548 - Discussion_Manager - INFO - 
+참여 전문가:
+2024-12-04 19:29:01,548 - Discussion_Manager - INFO - [
+  "Risk Manager",
+  "Quantitative Analyst",
+  "심리학자",
+  "Macro Economist",
+  "금융공학자",
+  "Technical Analyst"
+]
+2024-12-04 19:29:01,549 - Discussion_Manager - INFO - 
+예정된 라운드 수:
+2024-12-04 19:29:01,550 - Discussion_Manager - INFO - 5
+2024-12-04 19:29:01,550 - Discussion_Manager - INFO - 
+****************************************************************************************************
+
+2024-12-04 19:29:01,550 - Discussion_Manager - INFO - 
+에이전트 생성 시작...
+2024-12-04 19:29:01,551 - Discussion_Manager - INFO - 
+****************************************************************************************************
+2024-12-04 19:29:01,551 - Discussion_Manager - INFO - 단계: 에이전트 생성 완료
+2024-12-04 19:29:01,552 - Discussion_Manager - INFO - ****************************************************************************************************
+2024-12-04 19:29:01,552 - Discussion_Manager - INFO - 
+생성된 에이전트:
+2024-12-04 19:29:01,552 - Discussion_Manager - INFO - [
+  {
+    "role": "Risk Manager",
+    "speciality": "Risk Assessment and Management"
+  },
+  {
+    "role": "Quantitative Analyst",
+    "speciality": "Financial Modeling and Statistical Analysis"
+  },
+  {
+    "role": "심리학자",
+    "speciality": "Psychological Analysis"
+  },
+  {
+    "role": "Macro Economist",
+    "speciality": "Macroeconomic Analysis"
+  },
+  {
+    "role": "금융공학자",
+    "speciality": "Financial Engineering"
+  },
+  {
+    "role": "Technical Analyst",
+    "speciality": "Technical Pattern Analysis"
+  }
+]
+2024-12-04 19:29:01,554 - Discussion_Manager - INFO - 
+****************************************************************************************************
+
+2024-12-04 19:29:01,554 - Discussion_Manager - INFO - 
+****************************************************************************************************
+2024-12-04 19:29:01,556 - Discussion_Manager - INFO - 단계: 첫 논의 주제 선정
+2024-12-04 19:29:01,556 - Discussion_Manager - INFO - ****************************************************************************************************
+2024-12-04 19:29:01,556 - Discussion_Manager - INFO - 
+선정된 주제:
+2024-12-04 19:29:01,557 - Discussion_Manager - INFO - "모멘텀 기반 알파 전략의 기초 분석과 개발 방향 설정"
+2024-12-04 19:29:01,557 - Discussion_Manager - INFO - 
+선정 이유:
+2024-12-04 19:29:01,557 - Discussion_Manager - INFO - "기본 알파 전략 개발을 위한 시작점"
+2024-12-04 19:29:01,558 - Discussion_Manager - INFO - 
+****************************************************************************************************
+
+2024-12-04 19:29:01,558 - Discussion_Manager - INFO - 
+=== 라운드 1: 모멘텀 기반 알파 전략의 기초 분석과 개발 방향 설정 시작 ===
+
+2024-12-04 19:29:01,789 - Discussion_Manager - INFO - 
+****************************************************************************************************
+2024-12-04 19:29:01,790 - Discussion_Manager - INFO - 단계: 라운드 1 완료
+2024-12-04 19:29:01,790 - Discussion_Manager - INFO - ****************************************************************************************************
+2024-12-04 19:29:01,790 - Discussion_Manager - INFO - 
+주제:
+2024-12-04 19:29:01,791 - Discussion_Manager - INFO - "모멘텀 기반 알파 전략의 기초 분석과 개발 방향 설정"
+2024-12-04 19:29:01,791 - Discussion_Manager - INFO - 
+참여자 수:
+2024-12-04 19:29:01,791 - Discussion_Manager - INFO - 6
+2024-12-04 19:29:01,791 - Discussion_Manager - INFO - 
+제안된 알파 수:
+2024-12-04 19:29:01,792 - Discussion_Manager - INFO - 0
+2024-12-04 19:29:01,792 - Discussion_Manager - INFO - 
+요약:
+2024-12-04 19:29:01,792 - Discussion_Manager - INFO - {
+  "error": "\n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+  "timestamp": "2024-12-04T19:29:01.789613"
+}
+2024-12-04 19:29:01,793 - Discussion_Manager - INFO - 
+****************************************************************************************************
+

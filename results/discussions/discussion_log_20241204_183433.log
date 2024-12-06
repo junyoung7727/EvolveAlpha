@@ -1,0 +1,75 @@
+2024-12-04 18:34:33,404 - Discussion_Manager - INFO - 
+논의 시작...
+2024-12-04 18:34:33,405 - Discussion_Manager - INFO - 
+****************************************************************************************************
+2024-12-04 18:34:33,406 - Discussion_Manager - INFO - 단계: 논의 초기화
+2024-12-04 18:34:33,406 - Discussion_Manager - INFO - ****************************************************************************************************
+2024-12-04 18:34:33,407 - Discussion_Manager - INFO - 
+참여 전문가:
+2024-12-04 18:34:33,407 - Discussion_Manager - INFO - [
+  "Market Historian",
+  "Risk Manager",
+  "수학자",
+  "Technical Analyst",
+  "통계학자",
+  "Quantitative Analyst"
+]
+2024-12-04 18:34:33,416 - Discussion_Manager - INFO - 
+예정된 라운드 수:
+2024-12-04 18:34:33,416 - Discussion_Manager - INFO - 5
+2024-12-04 18:34:33,417 - Discussion_Manager - INFO - 
+****************************************************************************************************
+
+2024-12-04 18:34:33,417 - Discussion_Manager - INFO - 
+에이전트 생성 시작...
+2024-12-04 18:34:35,664 - Discussion_Manager - INFO - 
+****************************************************************************************************
+2024-12-04 18:34:35,664 - Discussion_Manager - INFO - 단계: 에이전트 생성 완료
+2024-12-04 18:34:35,665 - Discussion_Manager - INFO - ****************************************************************************************************
+2024-12-04 18:34:35,665 - Discussion_Manager - INFO - 
+생성된 에이전트:
+2024-12-04 18:34:35,666 - Discussion_Manager - INFO - [
+  {
+    "role": "Market Historian",
+    "speciality": "Historical Market Analysis"
+  },
+  {
+    "role": "Risk Manager",
+    "speciality": "Risk Assessment and Management"
+  },
+  {
+    "role": "수학자",
+    "speciality": "Mathematical Modeling"
+  },
+  {
+    "role": "Technical Analyst",
+    "speciality": "Technical Pattern Analysis"
+  },
+  {
+    "role": "통계학자",
+    "speciality": "Statistical Theory and Applications"
+  },
+  {
+    "role": "Quantitative Analyst",
+    "speciality": "Financial Modeling and Statistical Analysis"
+  }
+]
+2024-12-04 18:34:35,668 - Discussion_Manager - INFO - 
+****************************************************************************************************
+
+2024-12-04 18:34:35,668 - Discussion_Manager - INFO - 
+****************************************************************************************************
+2024-12-04 18:34:35,668 - Discussion_Manager - INFO - 단계: 첫 논의 주제 선정
+2024-12-04 18:34:35,668 - Discussion_Manager - INFO - ****************************************************************************************************
+2024-12-04 18:34:35,669 - Discussion_Manager - INFO - 
+선정된 주제:
+2024-12-04 18:34:35,669 - Discussion_Manager - INFO - "모멘텀 기반 알파 전략의 기초 분석과 개발 방향 설정"
+2024-12-04 18:34:35,669 - Discussion_Manager - INFO - 
+선정 이유:
+2024-12-04 18:34:35,670 - Discussion_Manager - INFO - "기본 알파 전략 개발을 위한 시작점"
+2024-12-04 18:34:35,670 - Discussion_Manager - INFO - 
+****************************************************************************************************
+
+2024-12-04 18:34:35,670 - Discussion_Manager - INFO - 
+=== 라운드 1: 모멘텀 기반 알파 전략의 기초 분석과 개발 방향 설정 시작 ===
+

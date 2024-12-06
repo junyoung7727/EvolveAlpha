@@ -1,0 +1,121 @@
+2024-12-04 19:29:42,849 - Discussion_Manager - INFO - 
+논의 시작...
+2024-12-04 19:29:42,850 - Discussion_Manager - INFO - 
+****************************************************************************************************
+2024-12-04 19:29:42,851 - Discussion_Manager - INFO - 단계: 논의 초기화
+2024-12-04 19:29:42,851 - Discussion_Manager - INFO - ****************************************************************************************************
+2024-12-04 19:29:42,852 - Discussion_Manager - INFO - 
+참여 전문가:
+2024-12-04 19:29:42,852 - Discussion_Manager - INFO - [
+  "생명공학자",
+  "Technical Analyst",
+  "Quantitative Analyst",
+  "수학자",
+  "통계학자",
+  "Macro Economist"
+]
+2024-12-04 19:29:42,853 - Discussion_Manager - INFO - 
+예정된 라운드 수:
+2024-12-04 19:29:42,853 - Discussion_Manager - INFO - 5
+2024-12-04 19:29:42,853 - Discussion_Manager - INFO - 
+****************************************************************************************************
+
+2024-12-04 19:29:42,854 - Discussion_Manager - INFO - 
+에이전트 생성 시작...
+2024-12-04 19:29:42,854 - Discussion_Manager - INFO - 
+****************************************************************************************************
+2024-12-04 19:29:42,854 - Discussion_Manager - INFO - 단계: 에이전트 생성 완료
+2024-12-04 19:29:42,855 - Discussion_Manager - INFO - ****************************************************************************************************
+2024-12-04 19:29:42,855 - Discussion_Manager - INFO - 
+생성된 에이전트:
+2024-12-04 19:29:42,855 - Discussion_Manager - INFO - [
+  {
+    "role": "생명공학자",
+    "speciality": "Biological Systems Analysis"
+  },
+  {
+    "role": "Technical Analyst",
+    "speciality": "Technical Pattern Analysis"
+  },
+  {
+    "role": "Quantitative Analyst",
+    "speciality": "Financial Modeling and Statistical Analysis"
+  },
+  {
+    "role": "수학자",
+    "speciality": "Mathematical Modeling"
+  },
+  {
+    "role": "통계학자",
+    "speciality": "Statistical Theory and Applications"
+  },
+  {
+    "role": "Macro Economist",
+    "speciality": "Macroeconomic Analysis"
+  }
+]
+2024-12-04 19:29:42,857 - Discussion_Manager - INFO - 
+****************************************************************************************************
+
+2024-12-04 19:29:42,857 - Discussion_Manager - INFO - 
+****************************************************************************************************
+2024-12-04 19:29:42,857 - Discussion_Manager - INFO - 단계: 첫 논의 주제 선정
+2024-12-04 19:29:42,858 - Discussion_Manager - INFO - ****************************************************************************************************
+2024-12-04 19:29:42,858 - Discussion_Manager - INFO - 
+선정된 주제:
+2024-12-04 19:29:42,858 - Discussion_Manager - INFO - "모멘텀 기반 알파 전략의 기초 분석과 개발 방향 설정"
+2024-12-04 19:29:42,858 - Discussion_Manager - INFO - 
+선정 이유:
+2024-12-04 19:29:42,859 - Discussion_Manager - INFO - "기본 알파 전략 개발을 위한 시작점"
+2024-12-04 19:29:42,859 - Discussion_Manager - INFO - 
+****************************************************************************************************
+
+2024-12-04 19:29:42,859 - Discussion_Manager - INFO - 
+=== 라운드 1: 모멘텀 기반 알파 전략의 기초 분석과 개발 방향 설정 시작 ===
+
+2024-12-04 19:29:43,167 - Discussion_Manager - INFO - 
+****************************************************************************************************
+2024-12-04 19:29:43,168 - Discussion_Manager - INFO - 단계: 라운드 1 완료
+2024-12-04 19:29:43,168 - Discussion_Manager - INFO - ****************************************************************************************************
+2024-12-04 19:29:43,169 - Discussion_Manager - INFO - 
+주제:
+2024-12-04 19:29:43,169 - Discussion_Manager - INFO - "모멘텀 기반 알파 전략의 기초 분석과 개발 방향 설정"
+2024-12-04 19:29:43,169 - Discussion_Manager - INFO - 
+참여자 수:
+2024-12-04 19:29:43,170 - Discussion_Manager - INFO - 6
+2024-12-04 19:29:43,170 - Discussion_Manager - INFO - 
+제안된 알파 수:
+2024-12-04 19:29:43,170 - Discussion_Manager - INFO - 0
+2024-12-04 19:29:43,171 - Discussion_Manager - INFO - 
+요약:
+2024-12-04 19:29:43,171 - Discussion_Manager - INFO - {
+  "error": "\n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+  "timestamp": "2024-12-04T19:29:43.167212"
+}
+2024-12-04 19:29:43,172 - Discussion_Manager - INFO - 
+****************************************************************************************************
+
+2024-12-04 19:29:43,177 - Discussion_Manager - INFO - 
+****************************************************************************************************
+2024-12-04 19:29:43,177 - Discussion_Manager - INFO - 단계: 다음 라운드 주제 생성
+2024-12-04 19:29:43,178 - Discussion_Manager - INFO - ****************************************************************************************************
+2024-12-04 19:29:43,178 - Discussion_Manager - INFO - 
+이전 컨텍스트:
+2024-12-04 19:29:43,178 - Discussion_Manager - INFO - {
+  "실험_결과": [],
+  "제안된_알파": [],
+  "주요_논점": [],
+  "향후_연구_필요사항": []
+}
+2024-12-04 19:29:43,179 - Discussion_Manager - INFO - 
+생성된 주제:
+2024-12-04 19:29:43,179 - Discussion_Manager - INFO - {
+  "error": "\n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+  "timestamp": "2024-12-04T19:29:43.177900"
+}
+2024-12-04 19:29:43,180 - Discussion_Manager - INFO - 
+****************************************************************************************************
+
+2024-12-04 19:29:43,181 - Discussion_Manager - INFO - 
+=== 라운드 2: 알파 전략 개선 및 최적화 시작 ===
+

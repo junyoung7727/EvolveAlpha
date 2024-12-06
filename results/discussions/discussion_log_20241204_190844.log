@@ -1,0 +1,75 @@
+2024-12-04 19:08:44,008 - Discussion_Manager - INFO - 
+논의 시작...
+2024-12-04 19:08:44,009 - Discussion_Manager - INFO - 
+****************************************************************************************************
+2024-12-04 19:08:44,010 - Discussion_Manager - INFO - 단계: 논의 초기화
+2024-12-04 19:08:44,010 - Discussion_Manager - INFO - ****************************************************************************************************
+2024-12-04 19:08:44,011 - Discussion_Manager - INFO - 
+참여 전문가:
+2024-12-04 19:08:44,011 - Discussion_Manager - INFO - [
+  "Machine Learning Expert",
+  "생명공학자",
+  "Data Engineer",
+  "심리학자",
+  "Macro Economist",
+  "통계학자"
+]
+2024-12-04 19:08:44,014 - Discussion_Manager - INFO - 
+예정된 라운드 수:
+2024-12-04 19:08:44,014 - Discussion_Manager - INFO - 5
+2024-12-04 19:08:44,014 - Discussion_Manager - INFO - 
+****************************************************************************************************
+
+2024-12-04 19:08:44,015 - Discussion_Manager - INFO - 
+에이전트 생성 시작...
+2024-12-04 19:08:46,408 - Discussion_Manager - INFO - 
+****************************************************************************************************
+2024-12-04 19:08:46,409 - Discussion_Manager - INFO - 단계: 에이전트 생성 완료
+2024-12-04 19:08:46,409 - Discussion_Manager - INFO - ****************************************************************************************************
+2024-12-04 19:08:46,410 - Discussion_Manager - INFO - 
+생성된 에이전트:
+2024-12-04 19:08:46,410 - Discussion_Manager - INFO - [
+  {
+    "role": "Machine Learning Expert",
+    "speciality": "AI/ML Applications in Finance"
+  },
+  {
+    "role": "생명공학자",
+    "speciality": "Biological Systems Analysis"
+  },
+  {
+    "role": "Data Engineer",
+    "speciality": "Data Processing and Pipeline Development"
+  },
+  {
+    "role": "심리학자",
+    "speciality": "Psychological Analysis"
+  },
+  {
+    "role": "Macro Economist",
+    "speciality": "Macroeconomic Analysis"
+  },
+  {
+    "role": "통계학자",
+    "speciality": "Statistical Theory and Applications"
+  }
+]
+2024-12-04 19:08:46,412 - Discussion_Manager - INFO - 
+****************************************************************************************************
+
+2024-12-04 19:08:46,412 - Discussion_Manager - INFO - 
+****************************************************************************************************
+2024-12-04 19:08:46,412 - Discussion_Manager - INFO - 단계: 첫 논의 주제 선정
+2024-12-04 19:08:46,413 - Discussion_Manager - INFO - ****************************************************************************************************
+2024-12-04 19:08:46,413 - Discussion_Manager - INFO - 
+선정된 주제:
+2024-12-04 19:08:46,415 - Discussion_Manager - INFO - "모멘텀 기반 알파 전략의 기초 분석과 개발 방향 설정"
+2024-12-04 19:08:46,415 - Discussion_Manager - INFO - 
+선정 이유:
+2024-12-04 19:08:46,416 - Discussion_Manager - INFO - "기본 알파 전략 개발을 위한 시작점"
+2024-12-04 19:08:46,416 - Discussion_Manager - INFO - 
+****************************************************************************************************
+
+2024-12-04 19:08:46,417 - Discussion_Manager - INFO - 
+=== 라운드 1: 모멘텀 기반 알파 전략의 기초 분석과 개발 방향 설정 시작 ===
+

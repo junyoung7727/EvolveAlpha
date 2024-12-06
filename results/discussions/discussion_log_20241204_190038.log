@@ -1,0 +1,75 @@
+2024-12-04 19:00:38,990 - Discussion_Manager - INFO - 
+논의 시작...
+2024-12-04 19:00:38,990 - Discussion_Manager - INFO - 
+****************************************************************************************************
+2024-12-04 19:00:38,991 - Discussion_Manager - INFO - 단계: 논의 초기화
+2024-12-04 19:00:38,991 - Discussion_Manager - INFO - ****************************************************************************************************
+2024-12-04 19:00:38,992 - Discussion_Manager - INFO - 
+참여 전문가:
+2024-12-04 19:00:38,992 - Discussion_Manager - INFO - [
+  "Quantitative Analyst",
+  "수학자",
+  "생명공학자",
+  "통계학자",
+  "Market Historian",
+  "Behavioral Economist"
+]
+2024-12-04 19:00:38,993 - Discussion_Manager - INFO - 
+예정된 라운드 수:
+2024-12-04 19:00:38,993 - Discussion_Manager - INFO - 5
+2024-12-04 19:00:38,993 - Discussion_Manager - INFO - 
+****************************************************************************************************
+
+2024-12-04 19:00:38,994 - Discussion_Manager - INFO - 
+에이전트 생성 시작...
+2024-12-04 19:00:41,469 - Discussion_Manager - INFO - 
+****************************************************************************************************
+2024-12-04 19:00:41,470 - Discussion_Manager - INFO - 단계: 에이전트 생성 완료
+2024-12-04 19:00:41,471 - Discussion_Manager - INFO - ****************************************************************************************************
+2024-12-04 19:00:41,472 - Discussion_Manager - INFO - 
+생성된 에이전트:
+2024-12-04 19:00:41,472 - Discussion_Manager - INFO - [
+  {
+    "role": "Quantitative Analyst",
+    "speciality": "Financial Modeling and Statistical Analysis"
+  },
+  {
+    "role": "수학자",
+    "speciality": "Mathematical Modeling"
+  },
+  {
+    "role": "생명공학자",
+    "speciality": "Biological Systems Analysis"
+  },
+  {
+    "role": "통계학자",
+    "speciality": "Statistical Theory and Applications"
+  },
+  {
+    "role": "Market Historian",
+    "speciality": "Historical Market Analysis"
+  },
+  {
+    "role": "Behavioral Economist",
+    "speciality": "Market Psychology and Behavioral Analysis"
+  }
+]
+2024-12-04 19:00:41,475 - Discussion_Manager - INFO - 
+****************************************************************************************************
+
+2024-12-04 19:00:41,475 - Discussion_Manager - INFO - 
+****************************************************************************************************
+2024-12-04 19:00:41,475 - Discussion_Manager - INFO - 단계: 첫 논의 주제 선정
+2024-12-04 19:00:41,476 - Discussion_Manager - INFO - ****************************************************************************************************
+2024-12-04 19:00:41,476 - Discussion_Manager - INFO - 
+선정된 주제:
+2024-12-04 19:00:41,476 - Discussion_Manager - INFO - "모멘텀 기반 알파 전략의 기초 분석과 개발 방향 설정"
+2024-12-04 19:00:41,477 - Discussion_Manager - INFO - 
+선정 이유:
+2024-12-04 19:00:41,477 - Discussion_Manager - INFO - "기본 알파 전략 개발을 위한 시작점"
+2024-12-04 19:00:41,477 - Discussion_Manager - INFO - 
+****************************************************************************************************
+
+2024-12-04 19:00:41,478 - Discussion_Manager - INFO - 
+=== 라운드 1: 모멘텀 기반 알파 전략의 기초 분석과 개발 방향 설정 시작 ===
+

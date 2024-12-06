@@ -1,0 +1,75 @@
+2024-12-04 18:55:20,603 - Discussion_Manager - INFO - 
+논의 시작...
+2024-12-04 18:55:20,603 - Discussion_Manager - INFO - 
+****************************************************************************************************
+2024-12-04 18:55:20,604 - Discussion_Manager - INFO - 단계: 논의 초기화
+2024-12-04 18:55:20,604 - Discussion_Manager - INFO - ****************************************************************************************************
+2024-12-04 18:55:20,605 - Discussion_Manager - INFO - 
+참여 전문가:
+2024-12-04 18:55:20,605 - Discussion_Manager - INFO - [
+  "수학자",
+  "시계열 데이터 전문가",
+  "심리학자",
+  "Macro Economist",
+  "Machine Learning Expert",
+  "Data Engineer"
+]
+2024-12-04 18:55:20,608 - Discussion_Manager - INFO - 
+예정된 라운드 수:
+2024-12-04 18:55:20,608 - Discussion_Manager - INFO - 5
+2024-12-04 18:55:20,608 - Discussion_Manager - INFO - 
+****************************************************************************************************
+
+2024-12-04 18:55:20,609 - Discussion_Manager - INFO - 
+에이전트 생성 시작...
+2024-12-04 18:55:23,107 - Discussion_Manager - INFO - 
+****************************************************************************************************
+2024-12-04 18:55:23,107 - Discussion_Manager - INFO - 단계: 에이전트 생성 완료
+2024-12-04 18:55:23,108 - Discussion_Manager - INFO - ****************************************************************************************************
+2024-12-04 18:55:23,109 - Discussion_Manager - INFO - 
+생성된 에이전트:
+2024-12-04 18:55:23,109 - Discussion_Manager - INFO - [
+  {
+    "role": "수학자",
+    "speciality": "Mathematical Modeling"
+  },
+  {
+    "role": "시계열 데이터 전문가",
+    "speciality": "Time Series Analysis"
+  },
+  {
+    "role": "심리학자",
+    "speciality": "Psychological Analysis"
+  },
+  {
+    "role": "Macro Economist",
+    "speciality": "Macroeconomic Analysis"
+  },
+  {
+    "role": "Machine Learning Expert",
+    "speciality": "AI/ML Applications in Finance"
+  },
+  {
+    "role": "Data Engineer",
+    "speciality": "Data Processing and Pipeline Development"
+  }
+]
+2024-12-04 18:55:23,112 - Discussion_Manager - INFO - 
+****************************************************************************************************
+
+2024-12-04 18:55:23,112 - Discussion_Manager - INFO - 
+****************************************************************************************************
+2024-12-04 18:55:23,112 - Discussion_Manager - INFO - 단계: 첫 논의 주제 선정
+2024-12-04 18:55:23,113 - Discussion_Manager - INFO - ****************************************************************************************************
+2024-12-04 18:55:23,113 - Discussion_Manager - INFO - 
+선정된 주제:
+2024-12-04 18:55:23,113 - Discussion_Manager - INFO - "모멘텀 기반 알파 전략의 기초 분석과 개발 방향 설정"
+2024-12-04 18:55:23,114 - Discussion_Manager - INFO - 
+선정 이유:
+2024-12-04 18:55:23,114 - Discussion_Manager - INFO - "기본 알파 전략 개발을 위한 시작점"
+2024-12-04 18:55:23,114 - Discussion_Manager - INFO - 
+****************************************************************************************************
+
+2024-12-04 18:55:23,115 - Discussion_Manager - INFO - 
+=== 라운드 1: 모멘텀 기반 알파 전략의 기초 분석과 개발 방향 설정 시작 ===
+

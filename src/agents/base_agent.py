@@ -108,7 +108,7 @@ class BaseAgent:
         self.system_prompt = f"""당신은 {self.role} 역할을 맡고 있는 Ph.D 수준의 전문가입니다.
 당신은 {self.role_description}
 당신은 주식시장의 모멘텀 알파를 발견하기 위한 연구 프로젝트에 참여하고 있습니다.
-당신의 전문성과 개성을 바탕으로 창의적이고 독창적인 아이디어, 특정 자산 선택(S&P500 지수 혹은 비트코인, 코스피) 및 외부 API 활용, DB 저장 등을 포함한 실험 계획을 제시해주세요.
+당신의 전문성과 개성을 바탕으로 창의적이고 독창적인 아이디어, 특정 자산 선택(S&P500 지수 혹은 비트코인, 코스피) 및 외부 API 활용 등을 포함한 실험 계획을 제시해주세요.
 """
 
     def analyze(self, topic: str, context: Optional[Dict[str, Any]] = None) -> Dict[str, Any]:
@@ -176,7 +176,7 @@ class BaseAgent:
 {context_str}
 
 당신의 전문성을 바탕으로 이 주제에 대한 분석 목적을 설정하고,
-구체적인 연구 방향을 제시해주세요.
+구체적인 연구 방향을 제시해주세요. 주제는 진부하지 않고 흥미로워야 합니다. 금융에 전문적인 사람이 큰 흥미를 가질정도의 주제를 제시해주세요. 진부하거나 너무 단순하게 주가의 수익률 분포만 분석하는등의 주제이면 감점입니다.
 """
         response = self.llm.generate_response(analysis_prompt, system_prompt)
         return response
@@ -195,9 +195,9 @@ class BaseAgent:
                 {
                     "id": "EXP001",
                     "title": "특정 자산 기반 시장 분석 실험",
-                    "hypothesis": "S&P500 대기업 주가(또는 비트코인/코스피)와 거시경제 지표 간 상관관계로 알파를 발견할 수 있다",
+                    "hypothesis": "시타델, 투시그마의 퀀트들이 보고 흥미를 가질 정도의 수준높은 주식시장 연구 주제",
                     "method": {
-                        "description": "외부 API(yfinance 등)로 특정 자산 가격(예:S&P500 상위 기업 주가)과 FRED 지표 수집, 회귀분석, 그래프생성",
+                        "description": "설명",
                         "python_tasks": [
                             {
                                 "task_description": "외부 API 활용 데이터를 받아 다양한 통계 및 시각화 결과를 생성. DB에 지식 저장. 웹 검색 결과 활용.",
@@ -210,7 +210,7 @@ class BaseAgent:
                                     "통계치 계산 및 print로 상세 출력. "
                                     "최종적으로 풍부한 해석적 텍스트 출력."
                                 ),
-                                "expected_outputs": "DataFrame 다수, 상관계수, 회귀분석 결과, base64 그래프, DB 저장/조회 결과, 텍스트 해석",
+                                "expected_outputs": "DataFrame 다수, 상관계수, 회귀분석 결과, base64 그래프, 텍스트 해석",
                                 "validation_criteria": "요구한 모든 결과를 정확히 출력",
                                 "required_data": {
                                     "api_sources": ["yfinance", "FRED API"],
@@ -231,7 +231,7 @@ class BaseAgent:
                 "priority": "EXP001 먼저 실행"
             },
             "resource_requirements": {
-                "apis": ["yfinance", "FRED", "Neo4j", "Pinecone", "web"],
+                "apis": ["yfinance", "FRED", "Pinecone", "web"],
                 "computational": "적당한 메모리/CPU",
                 "collaboration": ["데이터 엔지니어", "경제학자"]
             }

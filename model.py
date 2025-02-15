@@ -36,7 +36,7 @@ class LLMHandler:
                         model=self.model_name,
                         messages=messages,
                         max_tokens=1000,
-                        temperature=0.7
+                        temperature=0.2
                     )
                     return response.choices[0].message.content
 
@@ -45,7 +45,7 @@ class LLMHandler:
                         model=self.model_name,
                         messages=messages,
                         max_tokens=1000,
-                        temperature=0.7
+                        temperature=0.2
                     )
                     return response.choices[0].message.content
 
